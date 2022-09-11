@@ -4,6 +4,7 @@
 In this project i make a mouse useing esp32 and MPU6050 sensor.<br> 
 It have all standard mouse features.
 For more information read all documents carefully.
+<br>
 ![App Screenshot](https://github.com/rm10078/BLE_mouse_esp32_with_mpu6050/blob/main/image/Bluetooth%20Delivery.png?raw=true)
 
 
@@ -20,6 +21,7 @@ For more information read all documents carefully.
 
 ## ⌨ Hold button work
 When Your press the hold button the mouse arrow stop moveing. This button is to adjust the mouse arrow position.
+<br>
 
 ![App Screenshot](https://github.com/rm10078/BLE_mouse_esp32_with_mpu6050/blob/main/image/left%20click.png?raw=true)
 
